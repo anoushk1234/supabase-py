@@ -16,7 +16,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.7"
-postgrest-py = {git = "https://github.com/supabase-community/postgrest-py.git", rev = "3934fb2bd7c755962fa2fe490419d3e967e3555a"}
+postgrest-py = {git = "https://github.com/supabase-community/postgrest-py.git", rev = "c8ba57af60202e5cb98a5388a11cda9954cfd75d"}
 realtime-py = "^0.1.2"
 gotrue = {git = "https://github.com/supabase-community/gotrue-py.git", rev = "9ba3192dbdccd2f02a4819b52dd6cf51095af7e7"}
 httpx = ">=0.19,<0.22"
